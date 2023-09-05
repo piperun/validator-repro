@@ -31,4 +31,4 @@
 	}
 </script>
 
-<button on:click={verify}>Button</button>
+<button on:click={verify}>Send for validation</button>
